@@ -5,7 +5,7 @@ My first react native app.
 # Requisites 
 
 - Node.js v14 or newer
-- Expo 44 or newer
+- [Expo 44 or newer](https://expo.dev)
 
 # Installation
 
